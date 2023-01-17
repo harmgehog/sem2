@@ -14,4 +14,4 @@ Console.WriteLine(Console.ReadLine()[1]);
 int num;
 
 num = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(num%100/10);
+Console.WriteLine(num % 100 / 10);

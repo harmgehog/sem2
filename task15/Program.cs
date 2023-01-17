@@ -13,12 +13,12 @@ Console.WriteLine(rslt);
 
 switch (num)
 {
-    case 6: 
+    case 6:
         goto case 7;
-    case 7: 
+    case 7:
         Console.WriteLine("да");
         break;
-    default: 
+    default:
         Console.WriteLine("нет");
         break;
 };
