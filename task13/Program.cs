@@ -8,7 +8,7 @@
 
 try 
 {
-    Console.WriteLine(Console.ReadLine()[2]);
+Console.WriteLine(Console.ReadLine()![2]);
 }
 catch (IndexOutOfRangeException)
 {

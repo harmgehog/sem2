@@ -7,7 +7,7 @@
 
 // this is the best first option
 
-Console.WriteLine(Console.ReadLine()[1]);
+Console.WriteLine(Console.ReadLine()![1]);
 
 // one other option with math
 
